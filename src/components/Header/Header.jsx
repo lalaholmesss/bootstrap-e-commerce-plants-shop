@@ -31,7 +31,8 @@ export default function Header() {
             </div>
             <div className={`${styles.imageContainer}`}>
                 <div className={`${styles.images}`}>
-                       
+                    <img className={`${styles.imageRectangle}`} src="src\assets\images\rectangle-header.png" alt="rectangle-img" />
+                    <img className={`${styles.imagePlant}`} src="src\assets\images\plant1-header.png" alt="plant-img" />
                 </div>
             </div>
         
